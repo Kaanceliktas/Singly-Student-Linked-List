@@ -1,4 +1,4 @@
-# Singly-Student-Linked-List
+# Singly Student Linked List
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - This Project as created for the simple student record singly linked list. This project may help you in your Data Structeres Lectures and learn simple variables with explanations.
